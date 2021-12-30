@@ -1,16 +1,7 @@
-# flutter_news
+# Mobile Application Flutter - Exhibition
 
-A new Flutter project.
+## Introduction
+The display of the mobile news application has three pages by category and one page to read news. The three category pages will display the time of news creation, the last time the user saw the news, the news title, hashtags and supporting photos. The news reading page will contain detailed information regarding the current news. The interesting thing about the appearance of this application is the animation when opening the news to the news reading page.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Exhibition App Final UI
+![Banner News](https://user-images.githubusercontent.com/38379100/147729425-45c270f7-95cc-4e48-8538-efcb6aad8f23.png)
